@@ -1,0 +1,23 @@
+{
+    "name": "Wyatt's Main Bag",
+    "clubs":[
+        {
+            "name" : "7 iron",
+            "strike_ratings": [],
+            "strike_consistency": 0,   
+            "horizontal_misses": [], 
+            "miss_tendency" : 0,
+            "distances" : [150],
+            "distance": 0
+        },
+        {
+            "name" : "3 hybrid",
+            "strike_ratings": [],
+            "strike_consistency": 0,   
+            "horizontal_misses": [], 
+            "miss_tendency" : 0,
+            "distances" : [185],
+            "distance": 0
+        }
+    ]
+}
